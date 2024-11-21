@@ -28,3 +28,8 @@ jwt:
 app:
   services:
     profile: http://localhost:8081/profile
+
+tuandanh:
+  openapi:
+    dev-url : http://localhost:8080
+    prod-url : https://.....
